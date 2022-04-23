@@ -1,0 +1,63 @@
+h1 {
+    background-color: #85baa1;
+    width:100%;
+}
+
+.spat {background-color: #36393f;
+    color: #eeeeee;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+    border-style: solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-color: rgb(114, 137, 218);
+    text-align: justify;
+    padding:10px;
+}
+
+.sydlexia {
+    color: #ffffff;
+    background-color: #9966ff; 
+    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+    border-color: rgb(0, 255, 0);
+    border-style: solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: justify;
+    padding: 10px;
+}
+
+.streaming {
+    color: #ffffff;
+    font-family: "Lucida Console", Monaco, monospace;
+    background-color: #6b6826;
+    border-style: solid;
+    border-color: #c1bd45;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: justify;
+    padding: 10px;
+}
+
+.backer {
+    width: 100vw;
+    height: 5vh;
+    background-color: #000000;
+    }
+
+    a {
+        color: #ffffff;
+        text-decoration: underline;
+      }
+
+@media screen and (max-width: 600px){
+        body {
+        margin-left: 5px;
+        margin-right: 5px;
+        }
+      }

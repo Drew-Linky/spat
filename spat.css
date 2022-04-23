@@ -1,0 +1,324 @@
+
+body {
+  background-color: #36393f;
+  color: #eeeeee;
+  font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+  width:600px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: justify;
+}
+
+img {
+  width:100%;
+}
+
+.titles {
+  width:auto;
+}
+
+.top {
+  font-size: 1.3em;
+  color: #00cc00;
+}
+
+.makin {
+  font-size: 1.3em;
+  color: rgb(243, 207, 100);
+  font-weight: bold;
+}
+
+a {
+  color: rgb(27, 150, 197);
+  text-decoration: none;
+}
+
+.avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  position:relative;
+  top:80px;
+  right:70px;
+  margin-top: -60px;
+}
+
+.date {
+  font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #a3a6aa;
+  font-size:15px;
+}
+
+hr {
+  border-top: 1px solid rgb(62, 65, 71);
+  border-bottom: 1px solid rgb(62, 65, 71);
+  border-right: 1px solid rgb(62, 65, 71);
+  border-left: 1px solid rgb(62, 65, 71);
+  margin-left: -60px;
+  margin-right: -60px;
+}
+
+.stupid{
+height:800px;
+width:500px;
+}
+
+@media screen and (max-width: 600px){
+  body {
+  margin-left: 5px;
+  margin-right: 5px;
+  text-align: justify;
+  font-size: 1em;
+  height: auto;
+  width: 100%;
+  margin-left: 3px;
+  margin-right: 3px;
+  }
+  .avatar {
+    display: none;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .stupid{
+    width: 100%;
+    height: auto;
+  }
+}
+
+.nocolor {
+  font-size: 1.3em;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.andrew {
+  font-size: 1.3em;
+  color: rgb(204, 139, 0);
+  font-weight: bold;
+}
+
+.carlarc {
+  font-size: 1.3em;
+  color: rgb(65, 102, 0);
+  font-weight: bold;
+}
+
+.cuil {
+  font-size: 1.3em;
+  color: rgb(255, 1, 23);
+  font-weight: bold;
+}
+
+.cyclopscaveman {
+  font-size: 1.3em;
+  color: rgb(166, 58, 121);
+  font-weight: bold;
+}
+
+.gitaxian {
+  font-size: 1.3em;
+  color: rgb(2, 169, 187);
+  font-weight: bold;
+}
+
+.interrobang {
+  font-size: 1.3em;
+  color: rgb(0, 130, 130);
+  font-weight: bold;
+}
+
+.llf {
+  font-size: 1.3em;
+  color: #33e45f;
+  font-weight: bold;
+}
+
+.mines {
+  font-size: 1.3em;
+  color: rgb(242, 164, 0);
+  font-weight: bold;
+}
+
+.moonjail {
+  font-size: 1.3em;
+  color: rgb(167, 165, 2);
+  font-weight: bold;
+}
+
+.nostalgic {
+  font-size: 1.3em;
+  color: rgb(17, 175, 176);
+  font-weight: bold;
+}
+
+.niklink {
+  font-size: 1.3em;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.olkiswerve {
+  font-size: 1.3em;
+  color: rgb(224, 7, 7);
+  font-weight: bold;
+}
+
+.qweq {
+  font-size: 1.3em;
+  color: rgb(132, 4, 5);
+  font-weight: bold;
+}
+
+.reti {
+  font-size: 1.3em;
+  color: rgb(102, 153, 204);
+  font-weight: bold;
+}
+
+.tensei {
+  font-size: 1.3em;
+  color: rgb(255, 111, 242);
+  font-weight: bold;
+}
+
+.tera {
+  font-size: 1.3em;
+  color: rgb(161, 0, 0);
+  font-weight: bold;
+}
+
+.tipsy {
+  font-size: 1.3em;
+  color: rgb(223, 20, 122);
+  font-weight: bold;
+}
+
+.tori {
+  font-size: 1.3em;
+  color: rgb(0, 86, 130);
+  font-weight: bold;
+}
+
+.wadapan {
+  font-size: 1.3em;
+  color: rgb(102, 153, 204);
+  font-weight: bold;
+}
+
+.woc {
+  font-size: 1.3em;
+  color: rgb(11, 53, 23);
+  font-weight: bold;
+}
+
+.zentoyo {
+  font-size: 1.3em;
+  color: rgb(255, 111, 242);
+  font-weight: bold;
+}
+
+.spiral {
+  font-size: 1.3em;
+  color: rgb(83, 0, 51);
+  font-weight: bold;
+}
+
+.misha {
+  font-size: 1.3em;
+  color: rgb(223, 20, 122);
+  font-weight: bold;
+}
+
+.shitler {
+  font-size: 1.3em;
+  color: rgb(106, 0, 106);
+  font-weight: bold;
+}
+
+.user5 {
+  font-size: 1.3em;
+  color: rgb(46, 215, 58);
+  font-weight: bold;
+}
+
+.virtunat {
+  font-size: 1.3em;
+  color: rgb(255, 226, 46);
+  font-weight: bold;
+}
+
+.valkyrie {
+  font-size: 1.3em;
+  color: rgb(255, 108, 0);
+  font-weight: bold;
+}
+
+.ifnar {
+  font-size: 1.3em;
+  color: rgb(0, 0, 86);
+  font-weight: bold;
+}
+
+.anervaria {
+  font-size: 1.3em;
+  color: rgb(129, 193, 79);
+  font-weight: bold;
+}
+
+.multivac {
+  font-size: 1.3em;
+  color: rgb(242, 164, 0);
+  font-weight: bold;
+}
+
+.trickster {
+  font-size: 1.3em;
+  color: rgb(7, 21, 205);
+  font-weight: bold;
+}
+
+.toast {
+  font-size: 1.3em;
+  color: rgb(156, 77, 173);
+  font-weight: bold;
+}
+
+.red {
+  font-size: 1.3em;
+  color: rgb(255, 28, 28);
+  font-weight: bold;
+}
+
+.skyplayer {
+  font-size: 1.3em;
+  color: rgb(178, 18, 97);
+  font-weight: bold;
+}
+
+.cookie {
+  font-size: 1.3em;
+  color: rgb(74, 201, 37);
+  font-weight: bold;
+}
+
+.trip {
+  font-size: 1.3em;
+  color: #e00707;
+  font-weight: bold;
+}
+
+.neth {
+  font-size: 1.3em;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+.eph {
+  font-size: 1.3em;
+  color: #00cc00;
+  font-weight: bold;
+}

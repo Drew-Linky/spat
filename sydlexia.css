@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(51, 51, 51);
+    color: #eeeeee;
+    font-family: "Comic Sans MS", "Comic Sans", sans-serif;;
+    width:600px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: justify;
+  }
+
+  h1 {
+    color: rgb(153, 102, 255);
+  }
+  
+  .top {
+    font-size: 1.3em;
+    color: rgb(0, 192, 41);
+  }
+  
+  .makin {
+    font-size: 1.3em;
+    color: rgb(255, 207, 49);
+  }
+  
+  a {
+    color: rgb(27, 150, 197);
+    text-decoration: none;
+  }
+  
+  .avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position:relative;
+    top:80px;
+    right:70px;
+    margin-top: -60px;
+  }
+  
+  hr {
+    border-top: 1px solid rgb(62, 65, 71);
+    border-bottom: 1px solid rgb(62, 65, 71);
+    border-right: 1px solid rgb(62, 65, 71);
+    border-left: 1px solid rgb(62, 65, 71);
+    margin-left: -60px;
+    margin-right: -60px;
+  }
+  
+  @media screen and (max-width: 600px){
+    body {
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: justify;
+    }
+  }
