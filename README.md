@@ -1,3 +1,2 @@
 # spat
-website for SPAT
-fuck you makin
+HTML/CS/JS files for SPAT
